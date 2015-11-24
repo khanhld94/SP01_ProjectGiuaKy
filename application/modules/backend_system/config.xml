@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+	<permissions>
+		<title>[System] - Vị trí</title>
+		<item>
+			<param>backend_system/position/index</param>
+			<description>Xem</description>
+		</item>
+		<item>
+			<param>backend_system/position/limit</param>
+			<description>Giới hạn</description>
+		</item>
+		<item>
+			<param>backend_system/position/add</param>
+			<description>Thêm</description>
+		</item>
+		<item>
+			<param>backend_system/position/updated</param>
+			<description>Sửa</description>
+		</item>
+		<item>
+			<param>backend_system/position/delete</param>
+			<description>Xóa</description>
+		</item>
+		<item>
+			<param>backend_system/position/set</param>
+			<description>Trạng thái</description>
+		</item>
+	</permissions>
+	<permissions>
+		<title>[System] - Cấu hình</title>
+		<item>
+			<param>backend_system/config/index</param>
+			<description>Xem</description>
+		</item>
+		<item>
+			<param>backend_system/config/limit</param>
+			<description>Giới hạn</description>
+		</item>
+		<item>
+			<param>backend_system/config/add</param>
+			<description>Thêm</description>
+		</item>
+		<item>
+			<param>backend_system/config/updated</param>
+			<description>Sửa</description>
+		</item>
+		<item>
+			<param>backend_system/config/delete</param>
+			<description>Xóa</description>
+		</item>
+		<item>
+			<param>backend_system/config/set</param>
+			<description>Trạng thái</description>
+		</item>
+	</permissions>
+	<permissions>
+		<title>[System] - System</title>
+		<item>
+			<param>backend_system/system/index</param>
+			<description>Xem</description>
+		</item>
+	</permissions>
+</module>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+	<permissions>
+		<title>[Article] - Danh mục</title>
+		<item>
+			<param>backend_article/catalogue/index</param>
+			<description>Xem</description>
+		</item>
+		<item>
+			<param>backend_article/catalogue/limit</param>
+			<description>Giới hạn</description>
+		</item>
+		<item>
+			<param>backend_article/catalogue/add</param>
+			<description>Thêm</description>
+		</item>
+		<item>
+			<param>backend_article/catalogue/updated</param>
+			<description>Sửa</description>
+		</item>
+		<item>
+			<param>backend_article/catalogue/delete</param>
+			<description>Xóa</description>
+		</item>
+		<item>
+			<param>backend_article/catalogue/set</param>
+			<description>Trạng thái</description>
+		</item>
+	</permissions>
+	<permissions>
+		<title>[Article] - Bài viết</title>
+		<item>
+			<param>backend_article/post/index</param>
+			<description>Xem</description>
+		</item>
+		<item>
+			<param>backend_article/post/limit</param>
+			<description>Giới hạn</description>
+		</item>
+		<item>
+			<param>backend_article/post/add</param>
+			<description>Thêm</description>
+		</item>
+		<item>
+			<param>backend_article/post/updated</param>
+			<description>Sửa</description>
+		</item>
+		<item>
+			<param>backend_article/post/delete</param>
+			<description>Xóa</description>
+		</item>
+		<item>
+			<param>backend_article/post/set</param>
+			<description>Trạng thái</description>
+		</item>
+	</permissions>
+</module>
